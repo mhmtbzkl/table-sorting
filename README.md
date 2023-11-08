@@ -1,7 +1,7 @@
-#Table Sorting Source Code
+# Table Sorting Source Code
 This repository accompanies to show given data on a table and sorting the values by clicking on headings.
 
-##Installation
+## Installation
 For command line usage:
 ```
 pip3 install argparse
@@ -12,7 +12,7 @@ pip3 install pandas
 ```
 
 
-##Usage
+## Usage
 The first array contains the headings values:
 ```
 python3 sortTable.py --rows ["A","B","C","D"] [5,6,7,8] [3,5,3,9]
